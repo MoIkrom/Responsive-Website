@@ -32,18 +32,15 @@ $ git clone https://github.com/MoIkrom/Responsive-Website.git
 
 ## 𓆙 Screenshots
 
-1. Home
+1. Register
 2. Login
-3. Product
-4. Profile
-5. Register
+3. Profile  
+4. Home
+5. Product
 
-<p align="center" display='flex'>
-   <div align="center">
-   <image src= 'images\home.png' width=100%/>
-    <image src='images\login.png' width=100%/>
-    <image src='images\product.png' width=100%/>
-    <image src='images\profile.png' width=100%/>
-    <image src='images\register.png' width=100%/>
-  </div>
-</p>
+
+![Screenshot (82)](https://user-images.githubusercontent.com/104162292/197669992-74f4a083-b964-4d06-90b7-3640d5b34bc0.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/104162292/197669990-76069cb4-0ee5-4bc1-8a70-532301f32cfc.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/104162292/197669996-9cedaa7c-d4df-4b35-bff0-f2dbf577a724.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/104162292/197669986-0b0cec86-f02a-44a8-b478-178035ce56da.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/104162292/197669994-83203940-4e28-493e-bb1b-18362734af97.png)
