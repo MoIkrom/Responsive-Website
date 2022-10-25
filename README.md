@@ -26,7 +26,7 @@ _Coffee Gayoe is a authentic coffee from Aceh with natural proccess . A strong a
 ```
 $ git clone https://github.com/MoIkrom/Responsive-Website.git
 ```
-2. Open [VS Code](https://code.visualstudio.com/) in _JuicyWorlds-FE_ directory
+2. Open [VS Code](https://code.visualstudio.com/)
 3. Install [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 4. Right click _home.html_ then choose **Open With Live Server**
 
